@@ -1,0 +1,3 @@
+Array: I used an arrray to store the all the waypoints on the map. I chose an array because it can store multiple items of one type and I needed to store the waypoints together. An array also allows us to access the points in order so by keeping track of the current point, we can easily find the next one that we need to visit.
+
+Graph: The waypoints and paths between them can be thought of as a collection of nodes and edges, which is a graph. The nodes are the locations on the map and the agent is moving from the start point to the end point like when a graph is traversed. This means that we can apply alogrithms to find the optimal path to get across the map which is useful for the agents. 
