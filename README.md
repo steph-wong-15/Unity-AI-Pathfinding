@@ -1,6 +1,6 @@
 This project was done with the use of Unity.
 
-The goal of this project was to create an environment and used NavMesh aand waypoints to allow the NPC to find the optimal path between two locations. I designed the environment as an enclosure with several different rooms and obstacles.
+The goal of this project was to create an environment and used NavMesh and waypoints to allow the NPC to find the optimal path between two locations. I designed the environment as an enclosure with several different rooms and obstacles.
 The first is the futuristic start room where the NPC, Cactus Guy starts off. He moves through a radioactive area, through a maze, and finally to the outside destination.
 
 ![char](https://user-images.githubusercontent.com/50210628/171986440-5f48f837-4c5b-4e17-8378-66d1f8eff061.png)
